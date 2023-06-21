@@ -343,6 +343,7 @@ header .container nav {
         position: absolute;
         left: 0;
         top: 100%;
+	z-index: 1001;
         width: 100%;
         background-color: rgb(1 1 1 / 50%);
     }
